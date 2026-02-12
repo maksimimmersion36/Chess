@@ -1,3 +1,2 @@
 # Chess
-Курсовий проект шахи
-Виконав Максим Писюк
+course project chess by MaksimIMMERSION
